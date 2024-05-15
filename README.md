@@ -6,6 +6,9 @@
       <b>Maulana Kevin Pradana</b>
     </a> 💻
   </h1> 
+  <h5>
+    This is second account of <a href="https://github.com/maulanakevinp">maulanakevinp</a>
+  </h5>
 
 <img src="https://raw.githubusercontent.com/maulanakevinp/lavinza/master/assets/img/main-slide-img1.png" alt="banner cartoon illustration of Kevin">
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include PHP, Laravel, JavaScript, React JS, jQuery, Java, MySQL, Flutter.
